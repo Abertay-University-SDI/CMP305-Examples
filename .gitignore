@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+E1_SimpleTerrain/E1_SimpleTerrain/light_vs.cso
+E1_SimpleTerrain/E1_SimpleTerrain/light_ps.cso
