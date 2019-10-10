@@ -109,7 +109,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(solutiondir)\include\;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(solutiondir)..\DXFramework\;$(solutiondir)..\DXFramework\Assimp\include;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
